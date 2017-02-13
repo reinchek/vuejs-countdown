@@ -5,9 +5,9 @@ Example:
 ```
 
 Props:
-- start - Start date property
-- component-class - Assign specified class to component's main div
-- countdown - Amount of minutes after which execute deadline-reached callback
+- **start** - Start date property
+- **component-class** - Assign specified class to component's main div
+- **countdown** - Amount of minutes after which execute deadline-reached callback
 
 Events:
-- deadline-reached - Launched when timeout value becames 0
+- **deadline-reached** - Launched when timeout value becames 0
