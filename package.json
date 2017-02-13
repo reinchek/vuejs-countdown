@@ -1,0 +1,27 @@
+{
+  "name": "vue-countdown",
+  "version": "1.0.0",
+  "description": "VueJS 2 - CountDown Component",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "moment-duration-format": "^1.3.0"
+  },
+  "devDependencies": {
+    "moment": "^2.17.1",
+    "moment-duration-format": "^1.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reinchek/vuejs-countdown.git"
+  },
+  "author": "Nino Marrazzo - @reinchek (ni.marrazzo@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reinchek/vuejs-countdown/issues"
+  },
+  "homepage": "https://github.com/reinchek/vuejs-countdown#readme"
+}
