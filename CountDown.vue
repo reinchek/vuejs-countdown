@@ -31,7 +31,7 @@
       }
     },
     props: [
-      'created',
+      'start',
       'countdown',
       'componentClass'
     ],
@@ -42,7 +42,7 @@
       },
       // Starting date
       createdDate: function () {
-        return moment(this.created * 1000)
+        return moment(this.start * 1000)
       },
       // Countdown timer value
       countDown: function () {
